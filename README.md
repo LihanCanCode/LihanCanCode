@@ -24,11 +24,12 @@ Portfolio: https://tahsanlihan.vercel.app/ | LinkedIn: https://www.linkedin.com/
 | Ops | GitHub Actions, Vercel, container orchestration basics |
 
 ## Spotlight projects
-| Project | Stack | Why it matters |
-| --- | --- | --- |
-| [SEC Portfolio](https://github.com/LihanCanCode/sec-portfolio) | Next.js, Tailwind CSS, Framer Motion | Interactive security focused storytelling with motion design and strong accessibility. |
-| [Secure API Boilerplate](https://github.com/LihanCanCode/secure-api-boilerplate) | Node.js, Express, Prisma, PostgreSQL, Docker | Hardened REST foundation with RBAC, audit logging, and security testing hooks. |
-| [CTF Toolkit](https://github.com/LihanCanCode/ctf-toolkit) | Python, Bash | Scripts and workflow helpers that speed up capture the flag research and practice. |
+| Project |
+| --- |
+| [class-routine-management](https://github.com/LihanCanCode/class-routine-management) |
+| [Nirapotta](https://github.com/LihanCanCode/Nirapotta) |
+| [MoneyTracker](https://github.com/LihanCanCode/MoneyTracker) |
+| [Aid-Link](https://github.com/LihanCanCode/Aid-Link) |
 
 ## Community and learning
 - Host security focused code reviews and brown bag sessions for local developer groups.
@@ -43,3 +44,4 @@ Tip: If the GitHub stats cards stop loading because of API limits, replace them 
 
 ## Let''s build together
 I am always open to collaborations where UX polish and robust security meet. Drop a note and let''s make something resilient.
+
