@@ -30,17 +30,6 @@ I build secure, polished web experiences and sweat the details that keep users s
 | [MoneyTracker](https://github.com/LihanCanCode/MoneyTracker) |
 | [Aid-Link](https://github.com/LihanCanCode/Aid-Link) |
 
-## Community and learning
-- Host security focused code reviews and brown bag sessions for local developer groups.
-- Contribute starter templates and documentation aimed at early career engineers.
-- Explore new research on browser security, authentication, and human centered design.
-
-## Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LihanCanCode&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LihanCanCode&layout=compact&theme=default)
-
-Tip: If the GitHub stats cards stop loading because of API limits, replace them with local screenshots or badges.
-
 ## Let''s build together
 I am always open to collaborations where UX polish and robust security meet. Drop a note and let''s make something resilient.
 
