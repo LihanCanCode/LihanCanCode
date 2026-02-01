@@ -20,7 +20,6 @@ Portfolio: https://tahsanlihan.vercel.app/ | LinkedIn: https://www.linkedin.com/
 | Languages | TypeScript, JavaScript, Python, C++ |
 | Frontend | React, Next.js, Tailwind CSS, Framer Motion |
 | Platform | Node.js, Express, Prisma, PostgreSQL, Docker |
-| Security | Threat modeling, secure code review, OWASP Top 10, auth hardening |
 | Ops | GitHub Actions, Vercel, container orchestration basics |
 
 ## Spotlight projects
