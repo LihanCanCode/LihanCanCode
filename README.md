@@ -30,6 +30,10 @@ I build secure, polished web experiences and sweat the details that keep users s
 | [MoneyTracker](https://github.com/LihanCanCode/MoneyTracker) |
 | [Aid-Link](https://github.com/LihanCanCode/Aid-Link) |
 
+## Education
+- Khulna Public College
+- Islamic University of Technology — CSE
+
 ## Let''s build together
 I am always open to collaborations where UX polish and robust security meet. Drop a note and let''s make something resilient.
 
