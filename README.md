@@ -2,7 +2,7 @@
 
 I build secure, polished web experiences and sweat the details that keep users safe. I focus on delightful interactions, resilient infrastructure, and developer education rooted in real-world application security.
 
-Portfolio: https://tahsanlihan.vercel.app/ | LinkedIn: https://www.linkedin.com/in/tahsan-ferdous-b791753aa/ | Email: tahsanferdous@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://tahsanlihan.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahsan-ferdous-b791753aa/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahsanferdous@gmail.com)
 
 ## What drives me
 - Shaping product roadmaps with a security first mindset that stays frictionless for users.
@@ -43,4 +43,5 @@ Tip: If the GitHub stats cards stop loading because of API limits, replace them 
 
 ## Let''s build together
 I am always open to collaborations where UX polish and robust security meet. Drop a note and let''s make something resilient.
+
 
