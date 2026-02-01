@@ -1,41 +1,45 @@
-# Hi, I'm Lihan (LihanCanCode)
+# Hi, I''m Lihan
 
-I build secure, polished web experiences and constantly experiment with modern JavaScript tooling. My current focus is on crafting delightful user interfaces and backend services that scale cleanly.
+I build secure, polished web experiences and sweat the details that keep users safe. I focus on delightful interactions, resilient infrastructure, and developer education rooted in real-world application security.
 
-## What I am working on
-- Shipping a security-focused portfolio with Next.js 15, Tailwind CSS, and Framer Motion.
-- Exploring ways to harden frontend apps through better auth flows and threat modeling.
-- Documenting real-world learnings so other developers can build safer products faster.
+Portfolio: https://tahsanlihan.vercel.app/ | LinkedIn: https://www.linkedin.com/in/tahsan-ferdous-b791753aa/ | Email: tahsanferdous@gmail.com
 
-## Core skills
-- Languages: TypeScript, JavaScript, Python, C++
-- Frontend: React, Next.js, Tailwind CSS, Framer Motion
-- Backend & DevOps: Node.js, Express, Prisma, Docker, PostgreSQL
-- Security: OWASP Top 10 awareness, threat modeling, secure code reviews
+## What drives me
+- Shaping product roadmaps with a security first mindset that stays frictionless for users.
+- Partnering with teams to automate code review guardrails and observability from the start.
+- Sharing playbooks that help growing teams move fast without breaking trust.
 
-## Featured projects
-- [SEC Portfolio](https://github.com/LihanCanCode/sec-portfolio) — Interactive personal site showcasing security engineering work, motion design, and responsive layouts.
-- [Secure API Boilerplate](https://github.com/LihanCanCode/secure-api-boilerplate) — Starter kit for building hardened REST APIs with role-based access control. *(Update this link if the repository name differs.)*
-- [CTF Toolkit](https://github.com/LihanCanCode/ctf-toolkit) — Utilities and scripts that speed up capture-the-flag competition workflows. *(Update this link if the repository name differs.)*
+## Current missions
+- Launching a security forward portfolio powered by Next.js 15, Tailwind CSS, and Framer Motion.
+- Prototyping reusable auth flows that blend passwordless login, device trust, and threat analytics.
+- Documenting field notes on secure UI patterns, infrastructure, and incident response drills.
 
-## Highlights
-- Applied advanced animation patterns to improve user engagement while keeping performance budgets in check.
-- Built reusable security review checklists that reduced onboarding time for new team members by 30%.
-- Collaborated with cross-functional teams to design monitoring dashboards that surface anomalies instantly.
+## Toolbox snapshot
+| Area | Focus |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, C++ |
+| Frontend | React, Next.js, Tailwind CSS, Framer Motion |
+| Platform | Node.js, Express, Prisma, PostgreSQL, Docker |
+| Security | Threat modeling, secure code review, OWASP Top 10, auth hardening |
+| Ops | GitHub Actions, Vercel, container orchestration basics |
 
-## Let's connect
-- Portfolio: https://tahsanlihan.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/tahsan-ferdous-b791753aa/
-- Email: tahsanferdous@gmail.com
+## Spotlight projects
+| Project | Stack | Why it matters |
+| --- | --- | --- |
+| [SEC Portfolio](https://github.com/LihanCanCode/sec-portfolio) | Next.js, Tailwind CSS, Framer Motion | Interactive security focused storytelling with motion design and strong accessibility. |
+| [Secure API Boilerplate](https://github.com/LihanCanCode/secure-api-boilerplate) | Node.js, Express, Prisma, PostgreSQL, Docker | Hardened REST foundation with RBAC, audit logging, and security testing hooks. |
+| [CTF Toolkit](https://github.com/LihanCanCode/ctf-toolkit) | Python, Bash | Scripts and workflow helpers that speed up capture the flag research and practice. |
+
+## Community and learning
+- Host security focused code reviews and brown bag sessions for local developer groups.
+- Contribute starter templates and documentation aimed at early career engineers.
+- Explore new research on browser security, authentication, and human centered design.
 
 ## Activity
-
-<!-- You can enable the following sections by uncommenting once you add the respective GitHub readme stats integrations. -->
-
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LihanCanCode&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LihanCanCode&layout=compact&theme=default)
--->
 
-Thanks for stopping by. I am always open to collaborating on projects that blend user experience with robust security practices.
+Tip: If the GitHub stats cards stop loading because of API limits, replace them with local screenshots or badges.
+
+## Let''s build together
+I am always open to collaborations where UX polish and robust security meet. Drop a note and let''s make something resilient.
