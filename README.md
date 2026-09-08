@@ -1,8 +1,10 @@
-# Hi, I''m Lihan
+## Hi, I'm Lihan 👋
 
-I build secure, polished web experiences and sweat the details that keep users safe. I focus on delightful interactions, resilient infrastructure, and developer education rooted in real-world application security.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Building+secure%2C+polished+web+experiences;Security-first+mindset%2C+frictionless+UX;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://tahsanlihan.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahsan-ferdous-b791753aa/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahsanferdous@gmail.com)
+
+I build secure, polished web experiences and sweat the details that keep users safe. I focus on delightful interactions, resilient infrastructure, and developer education rooted in real-world application security.
 
 ## What drives me
 - Shaping product roadmaps with a security first mindset that stays frictionless for users.
@@ -20,6 +22,33 @@ I build secure, polished web experiences and sweat the details that keep users s
 - **Platform:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - **Ops:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) container orchestration basics
 
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LihanCanCode/LihanCanCode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LihanCanCode/LihanCanCode/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/LihanCanCode/LihanCanCode/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LihanCanCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lihan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LihanCanCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LihanCanCode&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LihanCanCode&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LihanCanCode&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
 ## Spotlight projects
 | Project |
 | --- |
@@ -32,7 +61,7 @@ I build secure, polished web experiences and sweat the details that keep users s
 - Khulna Public College
 - Islamic University of Technology — CSE
 
-## Let''s build together
-I am always open to collaborations where UX polish and robust security meet. Drop a note and let''s make something resilient.
+## Let's build together
+I am always open to collaborations where UX polish and robust security meet. Drop a note and let's make something resilient.
 
 
