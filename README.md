@@ -59,6 +59,12 @@ I build secure, polished web experiences and sweat the details that keep users s
 | [MedLingo](https://github.com/LihanCanCode/MedLingo) | Translates confusing prescriptions and lab reports into plain, patient-friendly language. |
 | [CI Sentinel](https://github.com/LihanCanCode/Ci-Sentinental) | An autonomous AI agent that triages CI/CD pipeline failures. |
 | [Blind Spot](https://github.com/LihanCanCode/Blind-Spot) | AI tutor that tests real comprehension (vs. the "illusion of competence") using the Feynman technique. |
+| [CoShop](https://github.com/LihanCanCode/Co-shop) | A storefront where a shopper and their AI agent browse, compare, and check out in the same session. |
+| [Nirapotta Mobile](https://github.com/LihanCanCode/Nirapotta_Mobile) | A mobile safety app that helps people protect themselves and respond in emergencies. |
+| [AI Front Desk](https://github.com/LihanCanCode/Ai_FrontDesk) | An AI receptionist that takes real phone calls to keep a service business's calendar full. |
+| [Event Ekhane](https://github.com/LihanCanCode/EventEkhane) | Full event management platform: ticketing with QR validation, sponsors, and real-time messaging. |
+| [DeshiTrip](https://github.com/LihanCanCode/DeshiTrip) | Bilingual travel companion for Bangladesh with curated spots and offline-resilient shared expenses. |
+| [MoneyTracker](https://github.com/LihanCanCode/MoneyTracker) | Full-stack personal finance tracker: React dashboard, Express API, Firebase auth, Gemini automation. |
 
 ## Education
 - Khulna Public College
