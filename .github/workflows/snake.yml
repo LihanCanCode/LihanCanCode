@@ -14,9 +14,6 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate snake game from GitHub contribution grid
         uses: Platane/snk@v3
         with:
@@ -24,20 +21,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install Pillow
-        run: pip install pillow requests
-
-      - name: Fix dist directory permissions
-        run: sudo chmod -R a+rwX dist
-
-      - name: Pixelate GitHub avatar
-        run: python .github/scripts/pixelate_avatar.py "${{ github.repository_owner }}" dist/pixel-avatar.png
 
       - name: Push generated assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
