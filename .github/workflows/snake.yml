@@ -1,4 +1,4 @@
-name: Generate Snake Contribution Graph
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -22,7 +22,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake output to output branch
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow requests
+
+      - name: Pixelate GitHub avatar
+        run: python .github/scripts/pixelate_avatar.py "${{ github.repository_owner }}" dist/pixel-avatar.png
+
+      - name: Push generated assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

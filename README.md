@@ -40,6 +40,7 @@ I'm a full-stack developer and AI/ML engineer who ships end-to-end: React/Next.j
 </p>
 
 <p align="center">
+  <img width="165" height="165" src="https://raw.githubusercontent.com/LihanCanCode/LihanCanCode/output/pixel-avatar.png" alt="Pixel-art avatar" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LihanCanCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lihan's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LihanCanCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
