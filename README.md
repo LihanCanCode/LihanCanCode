@@ -50,12 +50,15 @@ I build secure, polished web experiences and sweat the details that keep users s
 </p>
 
 ## Spotlight projects
-| Project |
-| --- |
-| [class-routine-management](https://github.com/LihanCanCode/class-routine-management) |
-| [Nirapotta](https://github.com/LihanCanCode/Nirapotta) |
-| [MoneyTracker](https://github.com/LihanCanCode/MoneyTracker) |
-| [Aid-Link](https://github.com/LihanCanCode/Aid-Link) |
+| Project | What it does |
+| --- | --- |
+| [VoltGuard](https://github.com/LihanCanCode/Volt-Guard) | Turns any phone into an AI fall-detection device with live caregiver alerts — no wearable hardware. |
+| [Tripwire](https://github.com/LihanCanCode/Tripwire) | A five-node LLM workflow that triages scam messages (English/Bengali) with a calibrated risk score. |
+| [CreditProof](https://github.com/LihanCanCode/CreditProof) | Zero-knowledge financial reputation built on the Midnight blockchain. |
+| [Thikana AI](https://github.com/LihanCanCode/ThikanaAi) | Bilingual, AI-powered rental & matchmaking marketplace for Bangladesh. |
+| [MedLingo](https://github.com/LihanCanCode/MedLingo) | Translates confusing prescriptions and lab reports into plain, patient-friendly language. |
+| [CI Sentinel](https://github.com/LihanCanCode/Ci-Sentinental) | An autonomous AI agent that triages CI/CD pipeline failures. |
+| [Blind Spot](https://github.com/LihanCanCode/Blind-Spot) | AI tutor that tests real comprehension (vs. the "illusion of competence") using the Feynman technique. |
 
 ## Education
 - Khulna Public College
