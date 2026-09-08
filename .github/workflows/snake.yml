@@ -33,6 +33,9 @@ jobs:
       - name: Install Pillow
         run: pip install pillow requests
 
+      - name: Fix dist directory permissions
+        run: sudo chmod -R a+rwX dist
+
       - name: Pixelate GitHub avatar
         run: python .github/scripts/pixelate_avatar.py "${{ github.repository_owner }}" dist/pixel-avatar.png
 
